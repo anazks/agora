@@ -4,7 +4,13 @@
     --light: #F8F8F8;
     --dark: #252525;
 }
-
+.about-img img {
+    border: none; /* Removes any borders */
+    margin: 0; /* Removes any margins */
+    padding: 0; /* Removes any padding */
+    display: block; /* Ensures no extra spacing from inline elements */
+    box-shadow: none; /* Removes any shadow effect */
+}
 h1,
 h2,
 .h1,
