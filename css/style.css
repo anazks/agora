@@ -1,4 +1,7 @@
 /********** Template CSS **********/
+img {
+    border: none !important;
+}
 :root {
     --primary: #14a9e0;
     --light: #F8F8F8;
